@@ -1,0 +1,38 @@
+{
+    "name": "XDM anime repo -  fancy UI", 
+    "info_url": "https://github.com/seertenedos/xdm-anime-plugin-repo/tree/fancy_gui", 
+    "plugins": {
+        "de.uranime.anime": [
+            {
+                "major_version": 0, 
+                "minor_version": 3, 
+                "name": "Anime", 
+                "type": "MediaTypeManager", 
+                "format": "zip", 
+                "desc": "Anime", 
+                "xdm_version": [
+                    0, 
+                    5, 
+                    9
+                ], 
+                "download_url": "https://github.com/seertenedos/xdm-anime-plugin-repo/archive/fancy_gui.zip"
+            }
+        ],
+	"de.uranime.uranime": [
+            {
+                "major_version": 0, 
+                "minor_version": 3, 
+                "name": "Uranime", 
+                "type": "Provider", 
+                "format": "zip", 
+                "desc": "Anime info from http://urani.me.", 
+                "xdm_version": [
+                    0, 
+                    5, 
+                    9
+                ], 
+                "download_url": "https://github.com/seertenedos/xdm-anime-plugin-repo/archive/fancy_gui.zip"
+            }
+        ]
+    }
+}
